@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vidas ao meu perfil 💙
 
-<!--
-**jkcarrdj/jkcarrdj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos Alberto
 
-Here are some ideas to get you started:
+-Estou estudando no Alura
+-Estou me desemvolvendo na linguagem JavaScript[Alura](https://www.alura.com.br)
+-Utilizo meu espaço para a minha organização e compartilhamento do meu projeto desemvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voçê pode entrar em contato comigo 📫
+
+Carlos.sefstrom@escola.pr.gov.br
+
+@carlosalberto_sefstrom
+
+![](https://media1.tenor.com/m/OKDt_GV1gQMAAAAC/harvesting-john-derre.gif)
